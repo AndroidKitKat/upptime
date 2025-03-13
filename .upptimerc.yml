@@ -20,7 +20,7 @@ status-website:
   cname: status.michaeleisemann.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: mae
-  introTitle: mae status 
+  introTitle:  
   introMessage: 
   robotsText: "User-agent: *\n Disallow: /"
   navbar:
