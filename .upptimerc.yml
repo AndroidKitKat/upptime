@@ -11,8 +11,6 @@ sites:
     url: https://michaeleisemann.com/
   - name: Gitea
     url: https://code.michaeleisemann.com/
-  - name: X
-    url: https://x.com/
   - name: ZNC
     url: https://znc.waifupaste.moe:42069/
 
