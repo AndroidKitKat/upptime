@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/element.eisemann.us.ico",
     "slug": "element",
     "status": "down",
-    "uptime": "90.92%",
-    "uptimeDay": "90.92%",
-    "uptimeWeek": "90.92%",
-    "uptimeMonth": "90.92%",
-    "uptimeYear": "90.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 164,
     "timeDay": 164,
     "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 164,
-    "dailyMinutesDown": {
-      "2025-03-14": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Yld.Moe",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/michaeleisemann.com.ico",
     "slug": "personal-site",
     "status": "down",
-    "uptime": "90.83%",
-    "uptimeDay": "90.83%",
-    "uptimeWeek": "90.83%",
-    "uptimeMonth": "90.83%",
-    "uptimeYear": "90.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 221,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2025-03-14": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gitea",
@@ -63,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/code.michaeleisemann.com.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "89.95%",
-    "uptimeDay": "89.95%",
-    "uptimeWeek": "89.95%",
-    "uptimeMonth": "89.95%",
-    "uptimeYear": "89.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 395,
     "timeDay": 395,
     "timeWeek": 395,
     "timeMonth": 395,
     "timeYear": 395,
-    "dailyMinutesDown": {
-      "2025-03-14": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ZNC",
@@ -101,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "intentionally-down",
     "status": "down",
-    "uptime": "15.92%",
-    "uptimeDay": "15.92%",
-    "uptimeWeek": "15.92%",
-    "uptimeMonth": "15.92%",
-    "uptimeYear": "15.92%",
+    "uptime": "2.91%",
+    "uptimeDay": "2.91%",
+    "uptimeWeek": "2.91%",
+    "uptimeMonth": "2.91%",
+    "uptimeYear": "2.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
