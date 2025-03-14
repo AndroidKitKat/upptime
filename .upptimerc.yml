@@ -3,18 +3,16 @@ owner: androidkitkat # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: Element
-    url: https://element.eisemann.us/
+  - name: Matrix
+    url: https://matrix.eisemann.us
   - name: Yld.Moe
-    url: https://yld.moe/
+    url: https://yld.moe
   - name: Personal Site
-    url: https://michaeleisemann.com/
+    url: https://michaeleisemann.com
   - name: Gitea
-    url: https://code.michaeleisemann.com/
+    url: https://code.michaeleisemann.com
   - name: ZNC
-    url: https://znc.waifupaste.moe:42069/
-  - name: Intentionally Down
-    url: asdfkjasldfjas.com/
+    url: https://znc.waifupaste.moe:42069
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
