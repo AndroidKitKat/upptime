@@ -4,18 +4,19 @@
     "url": "https://matrix.eisemann.us",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.eisemann.us.ico",
     "slug": "matrix",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 408,
     "timeDay": 240,
     "timeWeek": 484,
     "timeMonth": 408,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2025-03-25": 0,
       "2025-03-14": 89
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://michaeleisemann.com",
     "icon": "https://icons.duckduckgo.com/ip3/michaeleisemann.com.ico",
     "slug": "personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +54,18 @@
     "timeWeek": 257,
     "timeMonth": 222,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-25": 0
+    }
   },
   {
     "name": "Gitea",
     "url": "https://code.michaeleisemann.com",
     "icon": "https://icons.duckduckgo.com/ip3/code.michaeleisemann.com.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +74,9 @@
     "timeWeek": 403,
     "timeMonth": 362,
     "timeYear": 362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-25": 0
+    }
   },
   {
     "name": "ZNC",
