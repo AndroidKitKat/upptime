@@ -1,7 +1,7 @@
 url: https://music.graped.net
-status: up
-code: 200
-responseTime: 4810
-lastUpdated: 2025-06-02T20:21:51.601Z
+status: down
+code: 502
+responseTime: 3132
+lastUpdated: 2025-06-02T21:55:55.429Z
 startTime: 2025-04-28T01:58:03.724Z
 generator: Upptime <https://github.com/upptime/upptime>
