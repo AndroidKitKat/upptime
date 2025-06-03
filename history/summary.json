@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.eisemann.us.ico",
     "slug": "matrix",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
+    "uptimeYear": "99.66%",
     "time": 425,
     "timeDay": 854,
     "timeWeek": 400,
@@ -86,9 +86,9 @@
     "url": "https://znc.waifupaste.moe:42069",
     "icon": "https://icons.duckduckgo.com/ip3/znc.waifupaste.moe.ico",
     "slug": "znc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,7 +97,9 @@
     "timeWeek": 241,
     "timeMonth": 283,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-03": 0
+    }
   },
   {
     "name": "Music",
@@ -105,18 +107,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/music.graped.net.ico",
     "slug": "music",
     "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "84.57%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.56%",
+    "uptime": "98.22%",
+    "uptimeDay": "43.03%",
+    "uptimeWeek": "90.74%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "98.22%",
     "time": 1455,
-    "timeDay": 4496,
+    "timeDay": 4669,
     "timeWeek": 3311,
     "timeMonth": 1615,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-06-03": 0,
+      "2025-06-03": 712,
       "2025-06-02": 223,
       "2025-05-17": 7
     }
