@@ -26,10 +26,10 @@
     "url": "https://yld.moe",
     "icon": "https://icons.duckduckgo.com/ip3/yld.moe.ico",
     "slug": "yld-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 456,
@@ -37,7 +37,9 @@
     "timeWeek": 354,
     "timeMonth": 374,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-03": 1
+    }
   },
   {
     "name": "Personal Site",
@@ -86,19 +88,19 @@
     "url": "https://znc.waifupaste.moe:42069",
     "icon": "https://icons.duckduckgo.com/ip3/znc.waifupaste.moe.ico",
     "slug": "znc",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 370,
     "timeDay": 4363,
     "timeWeek": 1269,
     "timeMonth": 538,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2025-06-03": 6
+      "2025-06-03": 0
     }
   },
   {
@@ -107,18 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/music.graped.net.ico",
     "slug": "music",
     "status": "down",
-    "uptime": "98.21%",
-    "uptimeDay": "42.83%",
-    "uptimeWeek": "90.68%",
-    "uptimeMonth": "97.84%",
-    "uptimeYear": "98.21%",
+    "uptime": "98.13%",
+    "uptimeDay": "40.89%",
+    "uptimeWeek": "90.24%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "98.13%",
     "time": 1455,
-    "timeDay": 3375,
+    "timeDay": 2515,
     "timeWeek": 3311,
     "timeMonth": 1615,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-06-03": 718,
+      "2025-06-03": 761,
       "2025-06-02": 223,
       "2025-05-17": 7
     }
