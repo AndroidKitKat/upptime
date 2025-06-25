@@ -6,9 +6,9 @@
     "slug": "matrix",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.70%",
     "time": 427,
     "timeDay": 459,
@@ -16,7 +16,7 @@
     "timeMonth": 432,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-06-25": 49,
+      "2025-06-25": 41,
       "2025-04-16": 119,
       "2025-03-25": 197,
       "2025-03-14": 89
@@ -45,11 +45,11 @@
     "url": "https://michaeleisemann.com",
     "icon": "https://icons.duckduckgo.com/ip3/michaeleisemann.com.ico",
     "slug": "personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.76%",
     "time": 240,
     "timeDay": 243,
@@ -57,7 +57,7 @@
     "timeMonth": 251,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-06-25": 49,
+      "2025-06-25": 41,
       "2025-04-16": 118,
       "2025-03-25": 197
     }
@@ -67,11 +67,11 @@
     "url": "https://code.michaeleisemann.com",
     "icon": "https://icons.duckduckgo.com/ip3/code.michaeleisemann.com.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.76%",
     "time": 390,
     "timeDay": 408,
@@ -79,7 +79,7 @@
     "timeMonth": 388,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2025-06-25": 49,
+      "2025-06-25": 41,
       "2025-04-16": 118,
       "2025-03-25": 197
     }
