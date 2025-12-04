@@ -15,6 +15,10 @@ sites:
     url: https://znc.waifupaste.moe:42069
   - name: Music
     url: https://music.graped.net
+  - name: HOA
+    url: https://severnpineshoa.com
+  - name: HOA Cloud
+    url: https://cloud.severnpineshoa.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
