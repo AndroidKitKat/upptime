@@ -4,13 +4,13 @@
     "url": "https://matrix.eisemann.us",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.eisemann.us.ico",
     "slug": "matrix",
-    "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "98.83%",
-    "time": 467,
+    "time": 466,
     "timeDay": 369,
     "timeWeek": 465,
     "timeMonth": 368,
@@ -44,7 +44,8 @@
       "2026-03-08": 1440,
       "2026-03-07": 191,
       "2026-03-13": 48,
-      "2026-03-15": 15
+      "2026-03-15": 15,
+      "2026-08-26": 23
     }
   },
   {
@@ -52,17 +53,17 @@
     "url": "https://yld.moe",
     "icon": "https://icons.duckduckgo.com/ip3/yld.moe.ico",
     "slug": "yld-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.83%",
-    "time": 1114,
-    "timeDay": 218,
-    "timeWeek": 4608,
-    "timeMonth": 1546,
-    "timeYear": 757,
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.82%",
+    "time": 1194,
+    "timeDay": 19681,
+    "timeWeek": 8062,
+    "timeMonth": 2652,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2025-09-13": 21,
       "2025-10-08": 32,
@@ -72,7 +73,8 @@
       "2025-12-18": 75,
       "2026-04-10": 23,
       "2026-05-01": 69,
-      "2026-08-22": 206
+      "2026-08-22": 206,
+      "2026-08-26": 21
     }
   },
   {
@@ -80,11 +82,11 @@
     "url": "https://michaeleisemann.com",
     "icon": "https://icons.duckduckgo.com/ip3/michaeleisemann.com.ico",
     "slug": "personal-site",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "98.84%",
     "time": 282,
     "timeDay": 292,
@@ -117,7 +119,8 @@
       "2026-03-09": 593,
       "2026-03-08": 1440,
       "2026-03-07": 191,
-      "2026-03-13": 48
+      "2026-03-13": 48,
+      "2026-08-26": 16
     }
   },
   {
@@ -125,11 +128,11 @@
     "url": "https://code.michaeleisemann.com",
     "icon": "https://icons.duckduckgo.com/ip3/code.michaeleisemann.com.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "98.84%",
     "time": 459,
     "timeDay": 525,
@@ -162,7 +165,8 @@
       "2026-03-09": 593,
       "2026-03-08": 1440,
       "2026-03-07": 191,
-      "2026-03-13": 68
+      "2026-03-13": 68,
+      "2026-08-26": 11
     }
   },
   {
@@ -170,11 +174,11 @@
     "url": "https://znc.waifupaste.moe:42069",
     "icon": "https://icons.duckduckgo.com/ip3/znc.waifupaste.moe.ico",
     "slug": "znc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.86%",
     "time": 354,
     "timeDay": 436,
@@ -188,7 +192,8 @@
       "2025-11-22": 329,
       "2025-12-18": 60,
       "2026-05-01": 69,
-      "2026-08-22": 201
+      "2026-08-22": 201,
+      "2026-08-26": 6
     }
   },
   {
@@ -197,11 +202,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/music.graped.net.ico",
     "slug": "music",
     "status": "down",
-    "uptime": "46.40%",
+    "uptime": "46.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.81%",
+    "uptimeYear": "39.65%",
     "time": 1248,
     "timeDay": 3180,
     "timeWeek": 3220,
@@ -316,7 +321,7 @@
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 472,
-      "2026-08-26": 36,
+      "2026-08-26": 922,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -441,17 +446,17 @@
     "url": "https://severnpineshoa.com",
     "icon": "https://icons.duckduckgo.com/ip3/severnpineshoa.com.ico",
     "slug": "hoa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.22%",
-    "time": 367,
-    "timeDay": 442,
-    "timeWeek": 473,
-    "timeMonth": 435,
-    "timeYear": 367,
+    "time": 378,
+    "timeDay": 1861,
+    "timeWeek": 824,
+    "timeMonth": 524,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2025-12-11": 109,
       "2025-12-10": 1440,
@@ -459,7 +464,8 @@
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 892,
-      "2026-04-17": 21
+      "2026-04-17": 21,
+      "2026-08-26": 1
     }
   },
   {
@@ -467,17 +473,17 @@
     "url": "https://cloud.severnpineshoa.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.severnpineshoa.com.ico",
     "slug": "hoa-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.19%",
-    "time": 615,
-    "timeDay": 664,
-    "timeWeek": 640,
-    "timeMonth": 594,
-    "timeYear": 615,
+    "time": 625,
+    "timeDay": 1965,
+    "timeWeek": 968,
+    "timeMonth": 678,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2025-12-11": 109,
       "2025-12-10": 1440,
@@ -487,7 +493,8 @@
       "2025-12-06": 891,
       "2026-02-21": 34,
       "2026-03-04": 59,
-      "2026-05-16": 41
+      "2026-05-16": 41,
+      "2026-08-26": 0
     }
   }
 ]
